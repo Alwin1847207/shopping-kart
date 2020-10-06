@@ -35,8 +35,19 @@ let productId=req.params.id
   })
 })
 
-router.get('/edit-product/:id',(req,res)=>{
+router.get('/edit-product/:id',async (req,res)=>{
+  let product = await productHelper.getProductDetals(req.params.id)
+  res.render('admin/edit-product',{product})
+})
 
+router.post('/edit-product/:id',(req,res)=>{
+  productHelper.updateProduct(req.params.id,req.body).then(()=>{
+    res.redirect('/admin')
+    if(req.files.Image){
+      let image = req.files.Image
+      image.mv('./public/images/product-images/'+req.params.id+'.jpg')
+    }
+  })
 })
 
 module.exports = router;

@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f76e961-48ba-4a07-adf0-8643e5e9a653" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/admin/edit-product.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helpers/product-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/product-helpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/view-products.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/view-products.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,8 @@
       <workItem from="1601123867905" duration="3115000" />
       <workItem from="1601149190180" duration="93000" />
       <workItem from="1601749966489" duration="4925000" />
-      <workItem from="1601983521440" duration="3746000" />
+      <workItem from="1601983521440" duration="3888000" />
+      <workItem from="1601994418465" duration="7124000" />
     </task>
     <servers />
   </component>
