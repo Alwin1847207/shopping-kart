@@ -28,4 +28,15 @@ router.post('/add-product',(req,res)=>{
   });
 })
 
+router.get('/delete-product/:id',(req,res)=>{
+let productId=req.params.id
+  productHelper.deleteProduct(productId).then((response)=>{
+    res.redirect('/admin/')
+  })
+})
+
+router.get('/edit-product/:id',(req,res)=>{
+
+})
+
 module.exports = router;

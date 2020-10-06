@@ -20,18 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f76e961-48ba-4a07-adf0-8643e5e9a653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helpers/user-helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/product-images/5f6f9940f40b8ce9f8cd6b1f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/user/cart.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/user/login.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/user/signup.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/collections.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/collections.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/user-header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/user-header.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/product-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/product-helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/view-products.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/view-products.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
       <workItem from="1601123867905" duration="3115000" />
       <workItem from="1601149190180" duration="93000" />
       <workItem from="1601749966489" duration="4925000" />
-      <workItem from="1601983521440" duration="2120000" />
+      <workItem from="1601983521440" duration="3746000" />
     </task>
     <servers />
   </component>
