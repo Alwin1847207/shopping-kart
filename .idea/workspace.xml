@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f76e961-48ba-4a07-adf0-8643e5e9a653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/javascripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shoping-kart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shoping-kart.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helpers/user-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/user-helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layout/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/user-header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/user-header.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/user/cart.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/user/cart.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/user/view-products.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/user/view-products.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +90,9 @@
       <workItem from="1601994418465" duration="7235000" />
       <workItem from="1602089638332" duration="4107000" />
       <workItem from="1602177247203" duration="2969000" />
-      <workItem from="1602183459964" duration="2855000" />
+      <workItem from="1602183459964" duration="2985000" />
+      <workItem from="1602686484825" duration="3826000" />
+      <workItem from="1602783196120" duration="3095000" />
     </task>
     <servers />
   </component>
